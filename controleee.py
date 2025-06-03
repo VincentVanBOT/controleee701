@@ -1,4 +1,8 @@
 ##################################################################
+# ControlEee701
+# This is a fork of the project originally written by Andrea Grandi, see the original description below.
+# The goal of this fork is the complete implementation on an eeepc 701 4G.
+#
 # ControlEee is a little application that let you turn on/off
 # bluetooth, webcam and wifi on your Asus EeePC. This application
 # is partially based on poweeersave written by Georg Holzmann.
