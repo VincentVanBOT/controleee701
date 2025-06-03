@@ -1,3 +1,12 @@
+ControlEee701
+=============
+
+Questo è un fork del progetto originariamente scritto da Andrea Grandi, vedi di seguito la descrizione originale.
+
+Lo scopo di questo fork è la completa implementazione su un eeepc 701 4G.
+
+
+
 ControlEee
 ==========
 
